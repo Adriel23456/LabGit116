@@ -1,2 +1,6 @@
 AJR
+<<<<<<< HEAD
 Coldplay
+=======
+Joji
+>>>>>>> 420938adb3dd6f381b8cde6876f6af9987825681
